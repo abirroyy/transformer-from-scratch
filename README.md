@@ -32,9 +32,12 @@ The Transformer consists of:
 
 ---
 
+## Transformer Architecture forward pass output
+
 <p align="center">
-  <img src="Selection_002png" alt="Transformer Architecture forward pass output" width="600"/>
+  <img src="Selection_002.png" alt="Transformer Architecture forward pass output" width="600"/>
 </p>
+
 
 
 
