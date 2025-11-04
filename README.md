@@ -3,7 +3,7 @@
 
 ## 🚀 Overview
 This project is a complete, from-scratch implementation of the **Transformer architecture**, originally introduced in the 2017 paper *["Attention Is All You Need"](https://arxiv.org/abs/1706.03762)*.  
-The goal was to deeply understand how attention mechanisms, positional encoding, and sequence-to-sequence learning interact — without relying on high-level frameworks like Hugging Face or PyTorch Lightning.
+The goal was to deeply understand how attention mechanisms, positional encoding, and sequence-to-sequence learning works.
 
 ---
 
@@ -37,6 +37,7 @@ The Transformer consists of:
 <p align="center">
   <img src="Selection_002.png" alt="Transformer Architecture forward pass output" width="600"/>
 </p>
+
 
 
 
